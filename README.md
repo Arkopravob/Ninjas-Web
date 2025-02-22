@@ -1,0 +1,2 @@
+Fullstack development playground. Explore New Concept learning Basic to advance.
+Learning Fullstack Development: This repository documents my journey through the MERN stack (MongoDB, Express.js, React.js, Node.js). Expect experiments, notes, and works in progress! I'm particularly focused on learning about RESTful API design and user authentication. All feedback and constructive criticism is welcome!"
